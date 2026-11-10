@@ -7,7 +7,7 @@ Just a reminder, this is a Open Source Project.
 You can contribute to this project by forking the repository, making changes and then creating a pull request.
 We are glad to have you here. <3
 
-## INSTAL```
+## INSTAL
 
 ```bash
 go install github.com/jaanque/lazyapi@main
