@@ -1,4 +1,4 @@
-module jan/lazyapi
+module github.com/jaanque/lazyapi
 
 go 1.27.3
 
