@@ -10,5 +10,5 @@ We are glad to have you here. <3
 ## INSTAL```
 
 ```bash
-go install github.com/jaanque/lazyapi@latest
+go install github.com/jaanque/lazyapi@main
 ```
