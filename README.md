@@ -1,3 +1,7 @@
+This project is a API Test project like postman but simple, fast and reliable.
+
+Go to release page and download the latest release.
+
 This is the initial commit.
 
 This project only supports GET requests.
