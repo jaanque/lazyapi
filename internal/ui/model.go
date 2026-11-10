@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
-	"jan/lazyapi/internal/api"
-	"jan/lazyapi/internal/presets"
+	"github.com/jaanque/lazyapi/internal/api"
+	"github.com/jaanque/lazyapi/internal/presets"
 
 	"github.com/charmbracelet/bubbles/spinner"
 	"github.com/charmbracelet/bubbles/textinput"

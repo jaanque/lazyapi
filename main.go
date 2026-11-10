@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
-	"jan/lazyapi/internal/api"
-	"jan/lazyapi/internal/ui"
+	"github.com/jaanque/lazyapi/internal/api"
+	"github.com/jaanque/lazyapi/internal/ui"
 
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
